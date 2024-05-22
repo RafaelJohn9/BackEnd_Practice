@@ -1,6 +1,6 @@
-#User Authentication && Authorization
+# User Authentication && Authorization
 
-This directory is focused on practicing on basices of authentication and authorization. 
+This directory is focused on practicing on basics of authentication and authorization. 
 -*Here is a detailed prompt about it*
 
 Project Plan:
